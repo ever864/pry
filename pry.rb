@@ -12,4 +12,6 @@ end
 p squared_array
 
 binding.pry
+  
+sum = 2 + 2
 
